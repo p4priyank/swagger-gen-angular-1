@@ -1,0 +1,14 @@
+{
+  "name": "swagger-gen-angular1",
+  "version": "1.0.0",
+  "description": "generate service resources after reading swagger schema",
+  "main": "swagger_generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priyank",
+  "license": "ISC",
+  "devDependencies": {
+    "swagger-js-codegen": "^1.8.0"
+  }
+}
